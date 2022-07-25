@@ -1,0 +1,31 @@
+*{
+    font-size: 1rem;
+}
+
+#container{
+    margin: auto;
+    height: 100vh;
+    width: auto;
+}
+
+#quote-box {
+    width: 450px;
+    padding: 40px 50px;
+    display: table;
+    
+}
+
+body{
+    justify-content: center;
+    background-color: aqua;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: auto;
+    border-radius: 3px;
+        position: relative;
+        width: 450px;
+        padding: 40px 50px;
+        display: table;
+        background-color: #fff;
+}
